@@ -1,0 +1,15 @@
+.container{
+  display: 'block';
+  margin-left: 'auto';
+  margin-right: 'auto';
+  width: '40%';
+}
+.categories{
+  display: "flex";
+  flex-wrap: "wrap";
+  padding: "20px";
+  margin-left: "10px";
+
+}
+  
+

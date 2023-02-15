@@ -1,0 +1,35 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color:rgb(21, 122, 14);
+  color: whitesmoke;
+}
+
+
+
+.menu{
+ display: flex;
+ }
+ 
+ .product{
+  margin-left: 10px;
+ }
+
+ .cart{
+  margin-left: 40px;
+  
+ }
+
+ .login{
+ 
+  margin-left: 40px;
+  margin-right: 40px;
+ }
+
+ a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+ }
